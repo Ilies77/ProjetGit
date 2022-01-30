@@ -1,4 +1,4 @@
-# ProjetGit
+# Projet Git
 
 ## Table of contents
 * [Info](#info)
