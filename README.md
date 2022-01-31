@@ -23,16 +23,16 @@ ou
 En tapant cette commande sur un terminal Linux: 
 
 ```
-sudo apt install git-all
+$ sudo apt get install git-all
 ou 
-sudo apt-install git-all
+$ sudo apt-get install git-all
 ```
 
 Ensuite, copier le code sur votre terminal (en fonction de la clé utilisé) :    
 
 ```
 $ cd Votre répertoire/
-git clone https://github.com/Ilies77/ProjetGit.git (https)
+$ git clone https://github.com/Ilies77/ProjetGit.git (https)
 ou
-git clone git@github.com:Ilies77/ProjetGit.git (ssh)
+$ git clone git@github.com:Ilies77/ProjetGit.git (ssh)
 ```
